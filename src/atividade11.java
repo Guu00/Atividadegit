@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Atividade11 {
+public class Atividade11; {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //1. Peça ao usuário para inserir o salário bruto de um funcionário.
